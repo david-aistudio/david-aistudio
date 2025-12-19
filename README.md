@@ -1,67 +1,74 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=David%20AI%20Studio&fontSize=42&fontAlignY=35" />
-
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Full-Stack Developer • AI & System Builder</h3>
+<h3 align="center">Full-Stack Developer • Builder of XMAGO</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=david-aistudio&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=david-aistudio&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=600&lines=Building+real+projects+with+code;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Backend+Performance+Focused" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&center=true&width=560&lines=Building+XMAGO;Manga+%7C+Manhwa+%7C+Manhua+Platform;Full-Stack+Developer;Performance+Focused+Web+Apps" />
 </p>
 
 ---
 
 ## 🧠 About Me
-- 💻 Full-Stack Developer (Web & AI)
-- 🤖 Fokus AI tools, automation, dan system logic
-- ⚙️ Suka backend yang rapi, scalable, dan efisien
-- 🚀 Lebih suka **build real product** daripada tutorial doang
+- 💻 Full-Stack Developer
+- 🚀 Currently building **XMAGO**
+- 📚 Platform for **Manga, Manhwa, and Manhua**
+- ⚡ Focus on performance, clean UI, and scalable systems
+- 🧠 Interested in backend, API, and system design
 
 ---
 
-## 🧩 Core Skills
+## 🚀 Main Project
+
+### 📖 XMAGO
+Modern reading platform for **Manga, Manhwa, and Manhua** with focus on speed and user experience.
+
+**Highlights:**
+- 📚 Multi-source content (Manga / Manhwa / Manhua)
+- ⚡ Fast page loading & smooth reading
+- 📱 Mobile-first reader
+- 🎨 Clean & minimal UI
+- 🌐 Cloud-based deployment
+
+**Tech Stack:**
+- Frontend: Next.js / React
+- Styling: Tailwind CSS
+- Backend: API-based (Node.js / Bun)
+- CDN & DNS: Cloudflare
+- Deployment: Vercel
+
+🔗 Live: https://xmago.vercel.app  
+📦 Repo: https://github.com/david-aistudio/xmago
+
+> 📌 *XMAGO is my main and actively developed project.*
+
+---
+
+## 🧩 Skills
 
 ### 🧠 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
 </p>
 
-### 🎨 Frontend
+### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-### 🛠 Backend
+### 🛠 Backend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express" />
-</p>
-
-### 🗄 Database & Cache
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-</p>
-
-### ☁️ Tools & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare,vercel,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,linux,git,cloudflare,vercel" />
 </p>
 
 ---
 
-## 🚀 Pinned Projects (Highlights)
+## 📌 Pinned Repository
+👉 **XMAGO** — Manga / Manhwa / Manhua Reader Platform
 
-### 🔹 DevIMG-X3K
-AI-powered image tools built for modern workflows  
-**Tech:** HTML, CSS, JavaScript  
-🔗 https://devimg-x3k.vercel.app
-
-### 🔹 SreX3K – AI Article Generator
-Generate articles using AI automation & logic  
-**Tech:** JavaScript, AI API, Web Stack
-
-> 📌 *Pinned repositories are selected to represent my real-world work and experiments.*
+*(Pinned repositories represent active and maintained work.)*
 
 ---
 
@@ -74,21 +81,15 @@ Generate articles using AI automation & logic
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-aistudio&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-aistudio&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
-## 🌐 Connect With Me
-- 🌍 Portfolio: https://devimg-x3k.vercel.app
-- 📸 Instagram: https://www.instagram.com/paping_01
+## 🔗 Connect
+- 🌐 XMAGO: https://xmago.vercel.app
+- 💻 GitHub: https://github.com/david-aistudio
 - ✉️ Email: davidenxess1@gmail.com
 
 ---
 
 <p align="center">
-  <i>"Code is not just written — it's engineered."</i>
+  <i>"Focus on one product. Build it properly."</i>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
