@@ -1,95 +1,85 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Full-Stack Developer • Builder of XMAGO</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20David%20%F0%9F%91%8B&descAlignY=51&descAlign=62" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=david-aistudio&label=Profile%20Views&color=blue&style=flat" />
+<h1 align="center">👨‍💻 David AI Studio</h1>
+
+<p align="center"> 
+  <samp>
+    Creating magic with code. Specializing in <b>Fullstack Web</b>, <b>Automation</b>, and <b>Scraping</b>.
+    <br>
+    <i>"Code like a wind, data like a storm."</i>
+  </samp>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&center=true&width=560&lines=Building+XMAGO;Manga+%7C+Manhwa+%7C+Manhua+Platform;Full-Stack+Developer;Performance+Focused+Web+Apps" />
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Software+Engineer;Fullstack+Developer;Data+Scraper;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-## 🧠 About Me
-- 💻 Full-Stack Developer
-- 🚀 Currently building **XMAGO**
-- 📚 Platform for **Manga, Manhwa, and Manhua**
-- ⚡ Focus on performance, clean UI, and scalable systems
-- 🧠 Interested in backend, API, and system design
+### 🛠️ Tech Stack
+
+<div align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br>
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <br>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
 ---
 
-## 🚀 Main Project
+### 🌟 Featured Project
 
-### 📖 XMAGO
-Modern reading platform for **Manga, Manhwa, and Manhua** with focus on speed and user experience.
-
-**Highlights:**
-- 📚 Multi-source content (Manga / Manhwa / Manhua)
-- ⚡ Fast page loading & smooth reading
-- 📱 Mobile-first reader
-- 🎨 Clean & minimal UI
-- 🌐 Cloud-based deployment
-
-**Tech Stack:**
-- Frontend: Next.js / React
-- Styling: Tailwind CSS
-- Backend: API-based (Node.js / Bun)
-- CDN & DNS: Cloudflare
-- Deployment: Vercel
-
-🔗 Live: https://xmago.vercel.app  
-📦 Repo: https://github.com/david-aistudio/xmago
-
-> 📌 *XMAGO is my main and actively developed project.*
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100%">
+        <h3>🐲 API Donghua (Monster Scraper)</h3>
+        <p>Advanced Unofficial API for Anichin.cafe with rich metadata & auto-decode features.</p>
+        <a href="https://github.com/david-aistudio/API-Donghua">
+          <img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cheerio-e88c1f?style=flat-square&logo=cheerio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🧩 Skills
+### 📊 GitHub Stats
 
-### 🧠 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=david-aistudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-aistudio&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="langs" />
+</div>
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+<br>
 
-### 🛠 Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,linux,git,cloudflare,vercel" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-aistudio&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
 
 ---
 
-## 📌 Pinned Repository
-👉 **XMAGO** — Manga / Manhwa / Manhua Reader Platform
-
-*(Pinned repositories represent active and maintained work.)*
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=david-aistudio&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-aistudio&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔗 Connect
-- 🌐 XMAGO: https://xmago.vercel.app
-- 💻 GitHub: https://github.com/david-aistudio
-- ✉️ Email: davidenxess1@gmail.com
-
----
-
-<p align="center">
-  <i>"Focus on one product. Build it properly."</i>
-</p>
+<div align="center">
+  <small>Let's build something amazing together!</small>
+</div>
